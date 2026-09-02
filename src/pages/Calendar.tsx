@@ -217,7 +217,7 @@ export default function Calendar() {
   return (
     <AppLayout>
       <div className="space-y-6">
-        <section className="overflow-hidden rounded-3xl bg-linear-to-br from-indigo-950 via-slate-900 to-slate-950 p-6 text-white shadow-xl sm:p-8">
+        <section className="overflow-hidden rounded-3xl bg-linear-to-br from-blue-600 via-indigo-600 to-violet-600 p-6 text-white shadow-xl sm:p-8">
           <div className="flex flex-col gap-6 lg:flex-row lg:items-center lg:justify-between">
             <div>
               <Link

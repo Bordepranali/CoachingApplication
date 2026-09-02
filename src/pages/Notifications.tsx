@@ -204,7 +204,7 @@ export default function Notifications() {
   return (
     <AppLayout>
       <div className="min-h-screen bg-slate-50">
-        <section className="bg-linear-to-br from-slate-950 via-indigo-950 to-blue-900 px-4 py-8 text-white sm:px-6 lg:px-8 lg:py-10">
+        <section className="bg-linear-to-br from-blue-600 via-indigo-600 to-violet-600 px-4 py-8 text-white sm:px-6 lg:px-8 lg:py-10">
           <div className="mx-auto max-w-7xl">
             <div className="flex flex-col gap-6 lg:flex-row lg:items-end lg:justify-between">
               <div>
