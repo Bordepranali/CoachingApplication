@@ -185,9 +185,7 @@ The navigation, cards, tables, dashboards, forms, and management screens adapt t
 
 ## Project Links
 
-* **Live Demo:** [Add deployed Vercel link]
-* **GitHub Repository:** [Add GitHub repository link]
-* **Project Documentation:** [Add documentation link if available]
+* **Live Demo:** [https://coaching-application-delta.vercel.app/]
 
 ##  Deployment
 
